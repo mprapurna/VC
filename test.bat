@@ -1,0 +1,1 @@
+java -cp C:\Users\Admin\eclipse-workspace\VC\lib*;C:\Users\Admin\eclipse-workspace\VC\bin org.testng.TestNG testng.xml
